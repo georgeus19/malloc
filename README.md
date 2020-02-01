@@ -7,9 +7,9 @@ CS:APP Malloc Lab
 
 ## Main Files:
 
-1. mm.{c,h}	
+* mm.{c,h}	
 	* Your solution malloc package. mm.c is the file that you will be handing in, and is the only file you should modify.
-
+1. sd
 2. mdriver.c	
   * The malloc driver that tests your mm.c file
 
